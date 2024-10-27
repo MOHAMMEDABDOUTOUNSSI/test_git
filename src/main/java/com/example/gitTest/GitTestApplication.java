@@ -10,5 +10,4 @@ public class GitTestApplication {
 		// main application 
 		SpringApplication.run(GitTestApplication.class, args);
 	}
-
 }
